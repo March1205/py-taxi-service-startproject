@@ -8,3 +8,5 @@
 venv /
 .pytest_cachepytest_cache /
 ** __pycache____pycache__ /
+.idea
+__pycache__/
